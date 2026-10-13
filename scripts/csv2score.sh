@@ -6,8 +6,8 @@ set -euo pipefail
 # =============================================================================
 
 
-CSV_PATH="/data/rlawlsgurjh/work/gitlab/CUE/cue_vs/results/6S89/CUE/Trial_1/Proxy/PI/06_sa_score_filtered.csv"
-OUTPUT="/data/rlawlsgurjh/work/gitlab/CUE/cue_vs/results/6S89/CUE/Trial_1/Proxy/PI/06_ra_score.csv"
+CSV_PATH="/HDD1/phj318/Work/Autodock/EGFR_V2/ligand/triple_only_hits.csv"
+OUTPUT="/HDD1/phj318/Work/Autodock/EGFR_V2/ligand/triple_only_hits_output.csv"
 
 # =============================================================================
 
